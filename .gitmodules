@@ -1,4 +1,4 @@
 [submodule "imgui"]
-	path = imgui
+	path = external/imgui
 	url = https://github.com/ocornut/imgui
 	branch = docking
