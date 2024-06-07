@@ -1,4 +1,0 @@
-C:/Users/shake/CLionProjects/Golditor/cmake-build-debug/CMakeFiles/ImGui.dir
-C:/Users/shake/CLionProjects/Golditor/cmake-build-debug/CMakeFiles/Golditor.dir
-C:/Users/shake/CLionProjects/Golditor/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/shake/CLionProjects/Golditor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
